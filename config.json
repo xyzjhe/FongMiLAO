@@ -1,5 +1,5 @@
 {
-  "spider": "https://fongmi.cachefly.net/xyzjhe/FongMiLAO/main/jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f",
+  "spider": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f",
 
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	
@@ -16,7 +16,7 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+        "filter": "./json/wogg.json"
       }
     },
 
@@ -125,7 +125,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
+      "ext": "./json/duboku.json"
     },
     {
       "key": "廠長",
@@ -203,8 +203,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
-        "type": "帕梅拉#太极拳#广场舞#演唱会",
+        "json": "./json/bili_FM.json",
         "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"
       }
     },
