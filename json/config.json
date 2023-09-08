@@ -1,7 +1,87 @@
 {
-  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;37e03cb1531bf4b163bf0b366bc9aa6c",
+  "spider": "./jar/my_FM_jar_0905a.jar;md5;3d120fcfcfa847a6cd1179bfb9150b2f",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+
+    {"key": "DoubanforTVBox", "name":"🐯┃豆瓣SP_forTVBox┃🐯", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0},   
+
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+      }
+    },
+
+    {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "雲搜",
+      "name": "雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "紙條搜",
+      "name": "紙條搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt" 
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$test2$$$test2"
+    },
+    
     {
       "key": "影視",
       "name": "影視",
@@ -26,18 +106,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
-      }
-    },
+    
     {
       "key": "獨播",
       "name": "獨播",
@@ -125,7 +194,7 @@
       "ext": {
         "json": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/bili.json",
         "type": "帕梅拉#太极拳#广场舞#演唱会",
-        "cookie": ""
+        "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"
       }
     },
     {
@@ -137,7 +206,7 @@
       "changeable": 0,
       "ext": {
         "categories": "沙雕动画#沙雕穿越#沙雕",
-        "cookie": ""
+        "cookie": "http://127.0.0.1:9978/file/tvbox/bilicookie.txt"
       }
     },
     {
@@ -166,70 +235,15 @@
       "changeable": 0,
       "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/webdav.json"
     },
-    {
-      "key": "七夜",
-      "name": "七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "雲搜",
-      "name": "雲搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "盤搜",
-      "name": "盤搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "紙條搜",
-      "name": "紙條搜",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "盤搜索",
-      "name": "盤搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "找資源",
-      "name": "找資源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "影視天下第一$$$test2$$$test2"
-    },
+    
     {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"
     }
   ],
   "doh": [
