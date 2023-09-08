@@ -9,7 +9,7 @@
 
     {
       "key": "玩偶",
-      "name": "玩偶哥哥|4K",
+      "name": "👽玩偶哥哥|4K",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -31,7 +31,7 @@
 		
     {
       "key": "七夜",
-      "name": "七夜|4K",
+      "name": "😾七夜|4K",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "易搜",
-      "name": "易搜|4K",
+      "name": "🆎易搜|4K",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -49,7 +49,7 @@
     },
     {
       "key": "雲搜",
-      "name": "云搜|4K",
+      "name": "☁️云搜|4K",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -58,7 +58,7 @@
     },
     {
       "key": "盤搜",
-      "name": "盘搜|4K",
+      "name": "📀盘搜|4K",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -67,7 +67,7 @@
     },
     {
       "key": "紙條搜",
-      "name": "纸条搜|4K",
+      "name": "🏷纸条搜|4K",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -76,7 +76,7 @@
     },
     {
       "key": "盤搜索",
-      "name": "盘搜索|4K",
+      "name": "🙀盘搜索|4K",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -85,7 +85,7 @@
     },
     {
       "key": "找資源",
-      "name": "找资源|4K",
+      "name": "🦊找资源|4K",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -95,7 +95,7 @@
     
     {
       "key": "影視",
-      "name": "影視",
+      "name": "影視|wall",
       "type": 3,
       "api": "csp_YingShi",
       "searchable": 1,
@@ -103,7 +103,7 @@
     },
     {
       "key": "泥巴",
-      "name": "泥巴",
+      "name": "泥巴|wall",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "星星",
-      "name": "星星",
+      "name": "星星|wall",
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
@@ -120,7 +120,7 @@
     
     {
       "key": "獨播",
-      "name": "獨播",
+      "name": "独播库",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -193,7 +193,7 @@
     },
     {
       "key": "哔哩",
-      "name": "哔哩哔哩",
+      "name": "🅱️哔哩哔哩🅱️",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -248,7 +248,7 @@
     
     {
       "key": "push_agent",
-      "name": "推送",
+      "name": "🍭推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
