@@ -264,24 +264,16 @@
   ],
 
 
-"parses": 
-    [
+"parses":[
   //{"name":"聚合1","type":3,"url":"Demo"},
   //{"name":"聚合0","type":3,"url":"Web"},
-    {"name":"00","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
-    {"name":"66","type":1,"url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
-    {"name":"22","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-    {"name":"11","type":1,"url":"http://119.91.31.224:82/txqq.php?url=","ext":{"flag": ["qq","腾讯"]}},
-    {"name":"33","type":0,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
-    {"name":"55","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}],
-	  
-    {"name":"嗅探0","type":0,"url":"https://p8.a8ys.xyz/player/lgec.php?code=a8ys&from=a8all&key=TYYXG98&pid=239412&psid=7&pnid=1&url="},
-    {"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-    {"name":"嗅探2","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-    {"name":"嗅探3","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-    {"name":"嗅探4","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"嗅探5","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}
-    ],
+  {"name":"00","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
+  {"name":"66","type":1,"url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
+  {"name":"22","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+  {"name":"11","type":1,"url":"http://119.91.31.224:82/txqq.php?url=","ext":{"flag": ["qq","腾讯"]}},
+  {"name":"33","type":0,"url":"https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="},
+  {"name":"55","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+],
 
 "lives": [
         {
