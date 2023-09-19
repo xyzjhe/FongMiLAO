@@ -266,6 +266,8 @@
 
 "parses": 
     [
+  //{"name":"聚合1","type":3,"url":"Demo"},
+  //{"name":"聚合0","type":3,"url":"Web"},
     {"name":"00","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
     {"name":"66","type":1,"url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
     {"name":"22","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
@@ -278,9 +280,7 @@
     {"name":"嗅探2","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"嗅探3","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"嗅探4","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"嗅探5","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-    
-    {"name":"-莫有了-","type":0,"url":"https://jx.quankan.app/?url="}
+    {"name":"嗅探5","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="}
     ],
 
 "lives": [
